@@ -39,6 +39,9 @@ The objective of this project is to transform raw retail sales data into meaning
 * Sales Trend Analysis
 * Interactive Slicers
 
+## Dashboard Preview
+
+![Dashboard](Screenshot%202026-05-31%20231735.png)
 ## Files Included
 
 * retail_sales.csv
